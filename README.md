@@ -24,7 +24,7 @@ I enjoy solving messy problems, experimenting with new ideas, and turning insigh
 
 ### 🌍 Let’s connect
 **LinkedIn:** [Pradyumn Chauhan](https://www.linkedin.com/in/pradyumn-chauhan/)  
-**Portfolio website:** (https://pradyumn-chauhan.github.io/portfolio/)
+**Portfolio website:** https://pradyumn-chauhan.github.io/portfolio/                
 **Email:** pradyumnchauhan.236@gmail.com  
 
 If you’re into fintech, AI, or building cool stuff — let’s chat!
